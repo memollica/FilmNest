@@ -80,7 +80,7 @@ export default {
 
             if (success) {
                 // İşlem başarılıysa bir başarı bildirimi göster
-                toast.error("Movie Deleted!", {
+                toast.error("Movie Deleted!!", {
                   position: "top-right",
                   timeout: 2000,
                   closeOnClick: true,
