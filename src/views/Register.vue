@@ -182,11 +182,14 @@ button:active {
 @media (max-width: 500px) {
   .container {
     position: absolute;
-    top: 50%;
+    top: 60%;
     transform: translate(0, -50%);
   }
   .signIn {
     padding-left: 50px;
+  }
+  .profileRight {
+    z-index: 999;
   }
 }
 </style>
