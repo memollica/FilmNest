@@ -9,4 +9,4 @@ Personal Collection Management: You can add or remove the movies you want to wat
 
 Personal Profile: Each user can easily manage their favorite movies or watch lists by creating a profile that reflects their own movie taste.
 
-MovieNest, offers a simple and powerful tool for movie lovers; It organizes movies to watch, provides a discovery experience full of movie recommendations, and is the most practical way to manage your personal movie archive.
+FilmNest, offers a simple and powerful tool for movie lovers; It organizes movies to watch, provides a discovery experience full of movie recommendations, and is the most practical way to manage your personal movie archive.
